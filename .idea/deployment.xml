@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="电子科技大学" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="电子科技大学">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="电子科技大学 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/disk2/11812802/shy/FlawClassify/" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/disk2/11812802/shy/FlawClassify/code/" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="电子科技大学 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/disk2/11812802/shy/FlawClassify" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="电子科技大学 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/disk2/11812802/shy/FlawClassify" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="电子科技大学 (project level)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

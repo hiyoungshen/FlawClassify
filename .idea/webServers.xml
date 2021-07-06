@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cfe67361-cbd3-47db-8590-501cb4e9566d" name="电子科技大学 (project level)" url="">
+        <fileTransfer accessType="SFTP" host="10.16.26.76" port="10022" sshConfigId="d25a60e6-b962-4dc1-90b3-57731d6847b9" sshConfig="电子科技大学">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
